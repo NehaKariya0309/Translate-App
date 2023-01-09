@@ -10,7 +10,7 @@ const Translator = () => {
   const [isTranslated, setIsTranslated] = useState();
 
   const translate = () => {
-    console.log(outputLang);
+    // console.log(outputLang);
     // const url = 'https://microsoft-translator-text.p.rapidapi.com/translate?to%5B0%5D=de&api-version=3.0&profanityAction=NoAction&textType=plain';
 
 const options = {
